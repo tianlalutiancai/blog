@@ -1,0 +1,21 @@
+---
+title: 今天去耍了
+author: 胖虎
+date: '2019-05-01'
+slug: 今天去耍了
+categories:
+  - R
+tags:
+  - plot
+  - R Markdown
+ 今天午睡的时候梦见了汉堡，醒来后决定去吃汉堡王哈哈哈
+ 
+还去看了复联4，票价好贵，但是我依旧爱钢铁
+![6](./content/post/6.jpg)
+
+
+电影结束后强迫杨杰去做了按摩椅，他看上去很害怕的样子
+![2](./content/post/2.jpg)
+
+
+
