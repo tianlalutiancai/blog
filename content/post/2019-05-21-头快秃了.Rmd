@@ -1,0 +1,13 @@
+---
+title: 头快秃了
+author: 胖虎
+date: '2019-05-05'
+slug: 头快秃了
+categories:
+  - R
+tags:
+  - plot
+  - R Markdown
+  - regression
+---
+今天打游戏输了，互联网老师让做的网站也不会，我的头发快要扛不住了！就算是霸王，也拯救不了我的发际线了！
