@@ -1,0 +1,19 @@
+---
+title: 板扎的夏天
+author: 胖虎
+date: '2019-05-20'
+slug: 板扎的夏天
+categories:
+  - R
+tags:
+  - plot
+  - R Markdown
+  - regression
+---
+夏天应该要开心
+![7](./content/post/7.jpg)
+![8](./content/post/8.jpg)
+![9](./content/post/9.jpg)
+![11](./content/post/11.jpg)
+![14](./content/post/14.jpg)
+![13](./content/post/13.jpg)
