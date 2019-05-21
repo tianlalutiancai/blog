@@ -1,0 +1,12 @@
+---
+title: 人民公园
+author: 胖虎
+date: '2019-05-22'
+slug: 人民公园
+categories:
+  - R
+tags:
+  - plot
+  - R Markdown
+  - regression
+---
