@@ -39,11 +39,6 @@
   </url>
   
   <url>
-    <loc>/2019/05/02/ohuo/</loc>
-    <lastmod>2019-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/plot/</loc>
     <lastmod>2019-05-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -53,6 +48,11 @@
     <loc>/tags/regression/</loc>
     <lastmod>2019-05-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/2019/05/02/ohuo/</loc>
+    <lastmod>2019-05-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
