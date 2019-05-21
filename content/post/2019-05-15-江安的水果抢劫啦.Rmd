@@ -1,0 +1,14 @@
+---
+title: 江安的水果抢劫啦
+author: 胖虎
+date: '2019-05-15'
+slug: 江安的水果抢劫啦
+categories:
+  - R
+tags:
+  - plot
+  - R Markdown
+  - regression
+---
+我是哪个村的猪这么膨胀,竟然敢在江安买水果
+![4](./content/post/4.jpg)
