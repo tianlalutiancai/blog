@@ -1,0 +1,13 @@
+---
+title: 哼
+author: 胖虎
+date: '2019-05-03'
+slug: 哼
+categories:
+  - R
+tags:
+  - plot
+  - R Markdown
+  - regression
+---
+杨杰今天惹我，气得我一天都没有出门，果然男人都不是好东西（真的很过分我一定要拿小本本记下来）
