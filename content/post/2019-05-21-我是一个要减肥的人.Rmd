@@ -1,0 +1,18 @@
+---
+title: 我是一个要减肥的人
+author: 胖虎
+date: '2019-05-04'
+slug: 我是一个要减肥的人
+categories:
+  - R
+tags:
+  - plot
+  - R Markdown
+  - regression
+---
+我今天减肥了，吃饱才减的
+
+![1](./content/post/1.jpg)
+![3](./content/post/3.jpg)
+![7](./content/post/7.jpg)
+
